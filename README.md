@@ -134,13 +134,6 @@ I am not just using tools; I am implementing algorithms.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-chakkaf&show_icons=true&theme=midnight-owl&hide_border=true&count_private=true" alt="a-chakkaf's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-chakkaf&layout=compact&theme=midnight-owl&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -152,10 +145,10 @@ I am not just using tools; I am implementing algorithms.
 ### 🤝 Connect
 
 <div align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:abdelazizchakkaf19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USER/">
+  <a href="https://www.linkedin.com/in/abdelaziz-chakkaf/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>

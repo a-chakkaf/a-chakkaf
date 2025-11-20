@@ -134,14 +134,6 @@ I am not just using tools; I am implementing algorithms.
 
 ---
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-chakkaf&theme=midnight-owl&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🤝 Connect
 
 <div align="center">
